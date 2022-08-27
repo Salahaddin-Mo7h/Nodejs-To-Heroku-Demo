@@ -1,7 +1,7 @@
 /**
- * Created by AyushK on 09/06/2021.
+ * Created by AyushK on 08/27/2022.
  */
 
 module.exports = (app) => {
-  app.get("/", (req, res) => res.send("The Indian Dev from Heroku!"));
+  app.get("/", (req, res) => res.send("Deploy nodejs to Heroku!"));
 };
