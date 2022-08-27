@@ -38,5 +38,5 @@
 
 ### reach me out if you face any issues? ###
 
-* Salahaddin : [My LinkedIn profile](https://www.linkedin.com/in/salahaddin-mohammed/)
+* Salahaddin : [this link](https://www.linkedin.com/in/salahaddin-mohammed/)
 
