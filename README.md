@@ -36,7 +36,7 @@
 * Create a new repository on Github or find existing one.
 * Click on connect and enable automatic deployment.
 
-### reach me out if face any issues? ###
+### reach me out if you face any issues? ###
 
 * Salahaddin : [My LinkedIn profile](https://www.linkedin.com/in/salahaddin-mohammed/)
 
